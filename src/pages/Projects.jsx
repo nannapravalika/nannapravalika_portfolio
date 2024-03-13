@@ -34,9 +34,13 @@ const Projects = () => {
             <ProjectCard
               imgPath={project}
               isBlog={false}
-              title="Social Media"
-              description="This platform features a responsive interface built with Reactjs and CSS, allowing users to easily manage their profiles and posts through CRUD activities. The option to follow other users and interact with their posts (like or dislike) is also available, with suggestions for new users to follow. Users can only view posts from their followed users and can only engage in chat with those they follow. The backend is powered by Nodejs and Expressjs server, while MongoDB is utilized as the database."
-              ghLink="https://github.com/19sajib/social-media"
+              title="Treyas Info Tech Portfolio Project"
+              description="As part of my web development journey, I undertook a significant project for Treyas Info Tech, an educational institution offering a diverse range of courses. In this project, I developed a dynamic website using HTML, CSS, and JavaScript for the frontend, while the backend was powered by Python and Django, with PostgreSQL as the database.Courses and Interests Form: Implemented an intuitive form allowing users to express their interests and preferences for the various courses offered by Treyas Info Tech.
+
+              Lead Management System: Designed and integrated a lead management system that enables administrators to seamlessly view and manage user leads directly within the website. This feature enhances the efficiency of lead tracking and follow-up processes.
+              
+              Secure Backend: Leveraged Django, a robust web framework, to build a secure backend for handling user data. PostgreSQL, a powerful relational database, was utilized to store and manage the information efficiently."
+              ghLink="https://www.treyas.in/"
             />
           </Col>
 
@@ -44,19 +48,18 @@ const Projects = () => {
             <ProjectCard
               imgPath={kickstart}
               isBlog={false}
-              title="E‑Commerce Website"
-              description="This ecommerce website utilizes a REST API built with Nodejs and Expressjs, allowing for easy CRUD operations on user profiles, products and admin panel. The user interface is designed for efficient product management and includes a complete purchase process. The admin panel, accessible for CRUD on users and products, includes a chart for statistics display. Stripe API is integrated to handle customer payments. The website uses MongoDB and Firebase as the database."
-              ghLink="https://github.com/19sajib/mern-stack-ecommerce"
-            />
+              title="Military Edge Devices Integration"
+              description="As a collaborative effort within a dynamic freelancing team, I contributed to a project focused on integrating data from edge devices within the military into cloud computing environments. The primary goal was to leverage machine learning to enhance the processing, analysis, and utilization of critical data from these edge devices.This freelance project not only honed my machine learning skills but also showcased my ability to contribute effectively to a team-based, real-world application. Explore the GitHub repository to delve into the technical details and see firsthand how this integration of military edge devices is advancing the capabilities of cloud computing in a secure and efficient manner."
+              ghLink="https://github.com/SDC-INDIA/ML-project"/>
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={pg}
               isBlog={false}
-              title="Blog Website"
-              description="This blogging application features a RESTful API server built with Nodejs and Expressjs. The data is retrieved from the API server and displayed on a user-friendly interface designed using React, Redux, and styled-components for a seamless experience."
-              ghLink="https://github.com/19sajib/mern-blog-app"
+              title="Internshala 2.0"
+              description="Internshala 2.0 is a personal project I conceptualized and developed to facilitate seamless connections between students seeking internships and recruiters looking for talented individuals. Built using HTML, CSS, Python, Django, and a NoSQL database, this project aims to streamline the internship search and recruitment process.."
+              ghLink="https://github.com/nannapravalika/Internshala20"
             />
           </Col>
 
@@ -64,10 +67,9 @@ const Projects = () => {
             <ProjectCard
               imgPath={krypto}
               isBlog={false}
-              title="Project Krypto"
-              description="Project Krypto is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It allows users to interact with their Metamask wallet and send Ethereum."
-              ghLink="https://github.com/19sajib/Project-Krypto-Web-3.0"
-              demoLink="https://project-krypto.netlify.app/"
+              title="Vendor-Customer Dashboard Project"
+              description="In the pursuit of enhancing operational efficiency for Meta Source, I conceptualized and developed a sophisticated dashboard that acts as a central hub for connecting vendors and customers within the raw materials supply chain. This personalized project was crafted using HTML, CSS, Python, Django, and leveraged a robust database system for seamless data management."
+              ghLink="https://github.com/Metasource-Dev/Dashboard"
             />
           </Col>
 
@@ -75,9 +77,9 @@ const Projects = () => {
             <ProjectCard
               imgPath={kickstart}
               isBlog={false}
-              title="Solidity Kickstart"
-              description="Solidity Kickstart is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It includes all the functionality of a kickstart platform, enabling users to interact with their Metamask wallet, transfer Ethereum and participate in kickstart campaigns."
-              ghLink="https://github.com/19sajib/Solidity-Kickstart"
+              title="Protfolio"
+              description="In crafting my personal portfolio, I seamlessly blended cutting-edge technologies and design aesthetics to create a dynamic showcase of my skills. This multifaceted project incorporates React.js and Node.js for a robust frontend and backend, respectively, while also featuring an engaging and visually appealing design. Additionally, I integrated the powerful functionality of EmailJS to enhance the communication aspect of the portfolio."
+              ghLink="https://nannapravalika-portfolio.vercel.app/"
             />
           </Col>
         </Row>
