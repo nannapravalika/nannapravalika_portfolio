@@ -35,11 +35,7 @@ const Projects = () => {
               imgPath={project}
               isBlog={false}
               title="Treyas Info Tech Portfolio Project"
-              description="As part of my web development journey, I undertook a significant project for Treyas Info Tech, an educational institution offering a diverse range of courses. In this project, I developed a dynamic website using HTML, CSS, and JavaScript for the frontend, while the backend was powered by Python and Django, with PostgreSQL as the database.Courses and Interests Form: Implemented an intuitive form allowing users to express their interests and preferences for the various courses offered by Treyas Info Tech.
-
-              Lead Management System: Designed and integrated a lead management system that enables administrators to seamlessly view and manage user leads directly within the website. This feature enhances the efficiency of lead tracking and follow-up processes.
-              
-              Secure Backend: Leveraged Django, a robust web framework, to build a secure backend for handling user data. PostgreSQL, a powerful relational database, was utilized to store and manage the information efficiently."
+              description="As part of my web development journey, I undertook a significant project for Treyas Info Tech, an educational institution offering a diverse range of courses. In this project, I developed a dynamic website using HTML, CSS, and JavaScript for the frontend, while the backend was powered by Python and Django, with PostgreSQL as the database.Courses and Interests Form: Implemented an intuitive form allowing users to express their interests and preferences for the various courses offered by Treyas Info Tech."
               ghLink="https://www.treyas.in/"
             />
           </Col>
