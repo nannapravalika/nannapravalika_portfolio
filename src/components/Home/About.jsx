@@ -38,7 +38,7 @@ const About = () => {
                   <br />
                   <br />
                   Bridging the worlds of
-                   <b className="yellow"> Meachine Learning, Data Science,</b> and
+                   <b className="yellow"> Machine Learning, Data Science,</b> and
                   <i>
                     <b className="yellow">
                       {" "}
