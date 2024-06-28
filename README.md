@@ -1,17 +1,17 @@
-Nanna Pravalika's Portfolio
+# Nanna Pravalika's Portfolio
 Welcome to my personal portfolio! This platform highlights my expertise, projects, and background as a Full Stack Developer.
 
-Table of Contents
+# Table of Contents
 About Me
 Skills
 Projects
 Work Experience
 Education
 Contact
-About Me
+# About Me
 I am Nanna Pravalika, a seasoned IT professional specializing in designing, developing, testing, and implementing enterprise applications. I thrive in creating web applications using the MVC architecture and Django framework. My skills extend to WordPress development and complete lifecycle management of websites, demonstrating my broad capabilities in application development and web hosting.
 
-Skills
+# Skills
 Programming Languages
 Advanced: Python
 Intermediate: Java, PHP, C
