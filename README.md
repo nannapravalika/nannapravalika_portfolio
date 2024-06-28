@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://nannapravalika-portfolio.vercel.app/)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+![Protfolio Website]([https://i.ibb.co/N7xKjdQ/Screenshot-17.png](https://github.com/nannapravalika/nannapravalika_portfolio/blob/main/page-screenshot))
 
 <div align="center">
 
