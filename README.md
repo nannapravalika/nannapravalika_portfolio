@@ -1,5 +1,5 @@
- Nanna Pravalika's Portfolio
-Welcome to my personal portfolio! This site showcases my skills, projects, and professional background as a Full Stack Developer.
+Nanna Pravalika's Portfolio
+Welcome to my personal portfolio! This platform highlights my expertise, projects, and background as a Full Stack Developer.
 
 Table of Contents
 About Me
@@ -9,7 +9,7 @@ Work Experience
 Education
 Contact
 About Me
-I am Nanna Pravalika, an experienced IT professional specializing in the design, development, testing, and implementation of enterprise applications. I excel in creating web applications using the MVC architecture and Django framework. My expertise includes WordPress development and full lifecycle management of websites, showcasing my comprehensive skills in application development and web hosting.
+I am Nanna Pravalika, a seasoned IT professional specializing in designing, developing, testing, and implementing enterprise applications. I thrive in creating web applications using the MVC architecture and Django framework. My skills extend to WordPress development and complete lifecycle management of websites, demonstrating my broad capabilities in application development and web hosting.
 
 Skills
 Programming Languages
@@ -59,29 +59,3 @@ Work Experience
 Full Stack Developer, WEBLAUNCH (June 2022 – Present)
 Implemented Django ORM for efficient database interactions.
 Developed secure authentication and authorization mechanisms in Django.
-Optimized Django applications for performance.
-Applied advanced web technologies such as JavaScript, Python, Bootstrap, HTML, and CSS.
-Python Tutor, RAGHU ENGINEERING COLLEGE (Feb 2023 - March 2023)
-Taught Python basics, OOP, control statements, and practical applications to engineering students.
-Python Developer, CODEBOOK (Jan 2022 – June 2022)
-Led backend development using Django, involved in full lifecycle development.
-Technical Trainer, QIS College Of Engineering & Technology (Nov 2023 – Jan 2023)
-Delivered lectures on Data Structures and C programming, focusing on DSA algorithms and practical coding exercises.
-Education
-Bachelors of Technology in Computer Science (2022-2025)
-DRK College of Engineering and Technology
-Full Stack Development Course (2021-2022)
-Nxt Wave
-Diploma in Electronics and Communication Engineering (2017 - 2021)
-Government Institute of Electronics – 67%
-SSC (2017)
-Shantiniketan Model High School - 8.0 GPA
-Contact
-Mobile: +916309526806
-Email: nannapravalika566@gmail.com
-Location: Hyderabad
-Other Skills
-Analyzing complex technical information
-Designing and implementing database structures
-Detail-oriented
-Excellent problem-solving skills
