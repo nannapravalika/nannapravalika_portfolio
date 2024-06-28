@@ -101,4 +101,4 @@ Data Science
 ## School Bee - School Management System: Developed a school management system using Django and various APIs.
 
 Check my Linkedin for more
-[🔗Linkedin🔗]([https://nannapravalika-portfolio.vercel.app/](https://www.linkedin.com/in/pravalika-nanna/))
+[🔗Linkedin🔗]([https://nannapravalika-portfolio.vercel.app/](https://www.linkedin.com/in/pravalika-nanna/)
